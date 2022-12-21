@@ -9,3 +9,4 @@ tags:: [[知识共享\|知识共享]]
 需要发布的笔记需要在 YAML 里设置 `dg-publish: true`. 需要发布时点击左栏上的小树苗图标，可以看到未发布的和已发布的笔记。
 每次更新之后可以选择 changed pages 进行更新。
 可以修改 theme，CSS 等。
+[[DrJasonliu/永久笔记/My digital garden\|My digital garden]]
